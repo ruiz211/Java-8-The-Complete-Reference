@@ -1,7 +1,7 @@
 package com.ruiz211.TheJavaLanguage.VII.ACloserLookAtMethodsAndClasses;
 
 public class ObjectsAsParameters {
-    public static void main(String[] args) {
+    public static void main(String... doYourBest) {
         Test testOne = new Test(10, 10);
         Test testTwo = new Test(10, 10);
         System.out.println(testOne.equals(testTwo));

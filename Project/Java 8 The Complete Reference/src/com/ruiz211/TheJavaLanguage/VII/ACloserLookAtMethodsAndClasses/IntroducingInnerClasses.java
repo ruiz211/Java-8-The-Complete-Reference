@@ -4,7 +4,7 @@ public class IntroducingInnerClasses {
 
     private int number = 2;
 
-    public static void main(String[] args) {
+    public static void main(String... doYourBest) {
         new IntroducingInnerClasses().calc();
     }
 

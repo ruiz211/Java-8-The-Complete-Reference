@@ -1,7 +1,7 @@
 package com.ruiz211.TheJavaLanguage.VII.ACloserLookAtMethodsAndClasses;
 
 public class Varargs {
-    public static void main(String[] args) {
+    public static void main(String... doYourBest) {
         Varargs v = new Varargs();
         v.print(1, 2, 3, 4, 5);
         v.print(2.5, 1, 2, 3, 4, 5);

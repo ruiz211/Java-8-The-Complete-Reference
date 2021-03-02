@@ -1,7 +1,7 @@
 package com.ruiz211.TheJavaLanguage.VI.IntroducingClasses;
 
 public class Methods {
-    public static void main(String[] args) {
+    public static void main(String... doYourBest) {
         House h1 = new House();
         House h2 = new House();
 

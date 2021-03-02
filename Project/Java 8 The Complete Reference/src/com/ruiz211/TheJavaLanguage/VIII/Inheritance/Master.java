@@ -5,7 +5,7 @@ import com.ruiz211.TheJavaLanguage.VIII.Inheritance.entities.Grandfather;
 import com.ruiz211.TheJavaLanguage.VIII.Inheritance.entities.Son;
 
 public class Master {
-    public static void main(String[] args) {
+    public static void main(String... doYourBest) {
         Grandfather grandfather = new Grandfather("Grandfather");
         grandfather.printName();
 

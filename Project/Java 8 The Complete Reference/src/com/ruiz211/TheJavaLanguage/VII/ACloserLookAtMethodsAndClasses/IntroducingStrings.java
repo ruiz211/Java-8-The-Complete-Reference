@@ -5,7 +5,7 @@ public class IntroducingStrings {
     static String b = "b";
     static String c = "c";
 
-    public static void main(String[] args) {
+    public static void main(String... doYourBest) {
         String str = new String("Java");
         str.concat(" Tutorial"); //won't happen
         str = str.concat(" Tutorial");

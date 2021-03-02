@@ -15,7 +15,7 @@ interface Callable {
 }
 
 public class Interfaces {
-    public static void main(String[] args) {
+    public static void main(String... doYourBest) {
         Calling calling = new Calling();
         System.out.println(calling.call("This is a call message"));
         System.out.println(calling.sayHi("John"));

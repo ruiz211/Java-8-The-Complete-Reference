@@ -3,7 +3,7 @@ package com.ruiz211.TheJavaLanguage.VII.ACloserLookAtMethodsAndClasses;
 import java.util.Arrays;
 
 public class Recursion {
-    public static void main(String[] args) {
+    public static void main(String... doYourBest) {
         int[] a = {1, 2, 3, 4, 5, 6, 7, 8, 9};
 
         Factorial factorial = new Factorial();

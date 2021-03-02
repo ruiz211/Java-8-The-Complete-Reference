@@ -21,7 +21,7 @@ public class Statics {
         System.out.println("5. constructor");
     }
 
-    public static void main(String[] args) {
+    public static void main(String... doYourBest) {
         System.out.println("4. main");
         new Statics();
     }

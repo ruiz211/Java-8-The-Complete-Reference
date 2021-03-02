@@ -1,7 +1,7 @@
 package com.ruiz211.TheJavaLanguage.III.DataTypesVariablesAndArrays;
 
 public class Integers {
-    public static void main(String[] args) {
+    public static void main(String... doYourBest) {
 //        Integer
         byte numberOne = 127;
         short numberTwo = 32_767;

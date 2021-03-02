@@ -1,7 +1,7 @@
 package com.ruiz211.TheJavaLanguage.VIII.Inheritance;
 
 public class AbstractClass {
-    public static void main(String[] args) {
+    public static void main(String... doYourBest) {
         Rectangle r = new Rectangle(10, 10);
         System.out.println(r.getArea());
 

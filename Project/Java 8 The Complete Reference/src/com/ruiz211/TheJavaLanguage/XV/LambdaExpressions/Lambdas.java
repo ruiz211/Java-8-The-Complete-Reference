@@ -9,7 +9,6 @@ public class Lambdas {
         Value number = () -> 37;
         System.out.println(number.getValue());
 
-
         Compare c = Object::equals;
         System.out.println(c.test(12, 10));
     }

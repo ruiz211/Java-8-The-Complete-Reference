@@ -20,7 +20,7 @@ class Hierarchies<T> {
 }
 
 class HierarchiesII<T> extends Hierarchies<T> {
-    public HierarchiesII(T t) {
+    HierarchiesII(T t) {
         super(t);
     }
 }

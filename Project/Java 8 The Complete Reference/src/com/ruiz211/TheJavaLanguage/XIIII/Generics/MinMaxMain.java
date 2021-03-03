@@ -12,7 +12,7 @@ public class MinMaxMain {
 class MinMax<T extends Comparable<T>> implements MinMaxInterface {
     T[] t;
 
-    public MinMax(T[] t) {
+    MinMax(T[] t) {
         this.t = t;
     }
 

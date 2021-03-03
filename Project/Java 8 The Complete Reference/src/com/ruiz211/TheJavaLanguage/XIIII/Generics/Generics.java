@@ -14,7 +14,7 @@ public class Generics {
 }
 
 class SimpleGeneric<T> {
-    T t;
+    private T t;
 
     SimpleGeneric(T t) {
         this.t = t;

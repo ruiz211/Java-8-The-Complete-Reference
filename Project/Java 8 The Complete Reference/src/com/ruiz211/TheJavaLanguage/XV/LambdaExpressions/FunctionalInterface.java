@@ -9,5 +9,5 @@ interface Compare<T extends Number, U extends T> {
 }
 
 interface Factorial {
-    int getFacto(int number);
+    int getFact(int number);
 }

@@ -1,6 +1,5 @@
 package com.ruiz211.TheJavaLanguage.XV.LambdaExpressions;
 
-
 public class Lambdas {
     public static void main(String... doYourBest) {
         Value name = () -> "Charles";
@@ -22,6 +21,6 @@ public class Lambdas {
             return result;
         };
 
-        System.out.println(f.getFacto(5));
+        System.out.println(f.getFact(5));
     }
 }

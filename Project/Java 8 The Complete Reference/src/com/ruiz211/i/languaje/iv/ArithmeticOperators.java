@@ -1,6 +1,13 @@
-package com.ruiz211.TheJavaLanguage.IV.Operators;
+//
+//  ArithmeticOperators.java
+//  Java 8 The Complete Reference
+//
+//  Created by José Ruiz on 3/10/21.
+//
 
-public class Arithmetics {
+package com.ruiz211.i.languaje.iv;
+
+public class ArithmeticOperators {
 
     public static void main(String... doYourBest) {
         /*

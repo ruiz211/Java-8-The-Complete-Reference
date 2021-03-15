@@ -1,6 +1,13 @@
-package com.ruiz211.TheJavaLanguage.V.ControlStatements;
+//
+//  IfStatement.java
+//  Java 8 The Complete Reference
+//
+//  Created by José Ruiz on 3/10/21.
+//
 
-public class Ifs {
+package com.ruiz211.i.languaje.v;
+
+public class IfStatement {
     public static void main(String... doYourBest) {
         int a = 10;
         int b = 11;

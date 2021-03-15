@@ -1,6 +1,13 @@
-package com.ruiz211.TheJavaLanguage.IV.Operators;
+//
+//  BitwiseOperators.java
+//  Java 8 The Complete Reference
+//
+//  Created by José Ruiz on 3/10/21.
+//
 
-public class Bitwises {
+package com.ruiz211.i.languaje.iv;
+
+public class BitwiseOperators {
 
     public static void main(String... doYourBest) {
         /*

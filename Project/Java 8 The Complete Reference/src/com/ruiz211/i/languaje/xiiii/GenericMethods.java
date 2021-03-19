@@ -2,8 +2,8 @@ package com.ruiz211.i.languaje.xiiii;
 
 public class GenericMethods {
     public static void main(String... doYourBest) {
-        Integer[] nums = {1, 2, 3, 4, 5, 6, 7, 8, 9};
-        System.out.println(Methods.inIn(12, nums));
+        Integer[] numbs = {1, 2, 3, 4, 5, 6, 7, 8, 9};
+        System.out.println(Methods.inIn(12, numbs));
     }
 }
 

@@ -6,8 +6,8 @@ interface ArgumentInterface {
 
 public class LambdaAsArgument {
     public static void main(String... doYourBest) {
-        System.out.println(Argument.stringOperation(ai -> ai.toUpperCase(), "Some new string"));
-        System.out.println(Argument.stringOperation(String::toLowerCase, "Some new string"));
+        ArgumentInterface anInterface = String::toUpperCase;
+        System.out.println(Argument.stringOperation(anInterface, "Do your best"));
     }
 }
 

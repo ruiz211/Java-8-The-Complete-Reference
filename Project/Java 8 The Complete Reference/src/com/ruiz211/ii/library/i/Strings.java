@@ -42,7 +42,8 @@ public class Strings {
 
 
         //startsWith() and endsWith()
-
+        System.out.println(s.startsWith("J"));
+        System.out.println(s.endsWith("h"));
 
         //compareTo()
 
@@ -58,6 +59,7 @@ public class Strings {
 
 
         //replace()
+        System.out.println(s.replace("J", "j"));
 
 
         //trim() and strip()

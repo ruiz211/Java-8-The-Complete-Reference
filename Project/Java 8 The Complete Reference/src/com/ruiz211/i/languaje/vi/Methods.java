@@ -1,4 +1,4 @@
-package com.ruiz211.TheJavaLanguage.VI.IntroducingClasses;
+package com.ruiz211.i.languaje.vi;
 
 public class Methods {
     public static void main(String... doYourBest) {

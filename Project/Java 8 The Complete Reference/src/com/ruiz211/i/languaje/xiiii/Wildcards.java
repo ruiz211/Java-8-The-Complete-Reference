@@ -6,9 +6,9 @@ public class Wildcards {
         Double[] arrayDouble = {1.1, 2.2, 3.3, 4.4, 5.5, 6.6, 7.7, 8.8, 9.9};
         SameAverage<Integer> averageI = new SameAverage<>(arrayInteger);
         SameAverage<Double> averageD = new SameAverage<>(arrayDouble);
-//        System.out.println(average.average());
 
         System.out.println(averageI.compare(averageD));
+        System.out.println(averageD.compare(averageD));
     }
 }
 
